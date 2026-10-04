@@ -32,3 +32,7 @@ This directory contains the cross-trial benchmark report and the interactive das
 ## Open the dashboard
 
 Open [`orinth-1.0-35b_tool-eval-bench_seed-42_trials-8_hardmode.html`](./orinth-1.0-35b_tool-eval-bench_seed-42_trials-8_hardmode.html) in a browser to inspect the results interactively.
+
+## Attribution
+
+The harness is [tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) v2.0.6 (`f8117c3`), © 2026 SeraphimSerapis, MIT. This repository is the recorded hard-mode run, not the benchmark itself.
